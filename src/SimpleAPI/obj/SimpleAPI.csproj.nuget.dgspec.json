@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\ProjectTesting\\simpleproject\\src\\SimpleAPI\\SimpleAPI.csproj": {}
+    "D:\\ProjectTesting\\src\\SimpleAPI\\SimpleAPI.csproj": {}
   },
   "projects": {
-    "D:\\ProjectTesting\\simpleproject\\src\\SimpleAPI\\SimpleAPI.csproj": {
+    "D:\\ProjectTesting\\src\\SimpleAPI\\SimpleAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\ProjectTesting\\simpleproject\\src\\SimpleAPI\\SimpleAPI.csproj",
+        "projectUniqueName": "D:\\ProjectTesting\\src\\SimpleAPI\\SimpleAPI.csproj",
         "projectName": "SimpleAPI",
-        "projectPath": "D:\\ProjectTesting\\simpleproject\\src\\SimpleAPI\\SimpleAPI.csproj",
+        "projectPath": "D:\\ProjectTesting\\src\\SimpleAPI\\SimpleAPI.csproj",
         "packagesPath": "C:\\Users\\SHAHIN RAHAMAN\\.nuget\\packages\\",
-        "outputPath": "D:\\ProjectTesting\\simpleproject\\src\\SimpleAPI\\obj\\",
+        "outputPath": "D:\\ProjectTesting\\src\\SimpleAPI\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\DevExpress 21.1\\Components\\Offline Packages"
